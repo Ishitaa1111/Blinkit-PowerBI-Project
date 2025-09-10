@@ -44,7 +44,7 @@ The dataset captures **transactional sales data across Blinkit outlets**, includ
 
 
 
-## 🔹 4. Tools & Skills Used  
+##  4. Tools & Skills Used  
 
 | **Category**            | **Tools & Skills** |
 |--------------------------|---------------------|
@@ -103,5 +103,5 @@ The **Blinkit Sales Dashboard** delivers a **single source of truth** for sales,
 - **Customer Demographics:** Enrich dataset for **personalized campaigns**  
 - **Supplier Analysis:** Extend BI to evaluate **vendor performance**  
 
----
+
 
